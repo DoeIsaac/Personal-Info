@@ -1,0 +1,1 @@
+document.write("Name: Isaac Doe <br/> Height: 5.7 <br/> Country: Liberia")
